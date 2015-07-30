@@ -1,4 +1,4 @@
-FROM       adgico/java_1.8.0_51
+FROM       adgico/java-1.8.0-51
 MAINTAINER Byran Wills-Heath <byran@adgico.co.uk>
 
 RUN apt-get install -y git

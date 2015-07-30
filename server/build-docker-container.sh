@@ -1,5 +1,5 @@
 #!/bin/bash
 
-docker rmi adgico/teamcity_9.1_server
-docker build -t adgico/teamcity_9.1_server .
+docker rmi adgico/teamcity-9.1-server
+docker build -t adgico/teamcity-9.1-server .
 

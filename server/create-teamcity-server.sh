@@ -11,5 +11,5 @@ if [ "$PORT" == "" ] ; then
 	PORT=80
 fi
 
-docker run --name=$1 --restart=always -p $PORT:8111 -d adgico/teamcity_9.1_server
+docker run --name=$1 --restart=always -p $PORT:8111 -d adgico/teamcity-9.1-server
 
