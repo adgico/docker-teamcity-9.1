@@ -1,4 +1,4 @@
-FROM       adgico/teamcity_9.1_agent_gcc_4.9
+FROM       adgico/teamcity-9.1-agent-gcc-4.9
 MAINTAINER Byran Wills-Heath <byran@adgico.co.uk>
 
 RUN cd / &&\
