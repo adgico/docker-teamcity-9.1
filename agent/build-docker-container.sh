@@ -1,5 +1,5 @@
 #!/bin/bash
 
-docker rmi adgico/teamcity_9.1_agent
-docker build -t adgico/teamcity_9.1_agent .
+docker rmi adgico/teamcity-9.1-agent
+docker build -t adgico/teamcity-9.1-agent .
 
