@@ -1,4 +1,4 @@
-FROM       adgico/teamcity_9.1_agent
+FROM       adgico/teamcity-9.1-agent
 MAINTAINER Byran Wills-Heath <byran@adgico.co.uk>
 
 RUN apt-get -y install software-properties-common

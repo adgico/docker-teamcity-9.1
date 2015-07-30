@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker rmi adgico/teamcity_9.1_agent_gcc_4.9
-docker build -t adgico/teamcity_9.1_agent_gcc_4.9 .
+docker rmi adgico/teamcity-9.1-agent-gcc-4.9
+docker build -t adgico/teamcity-9.1-agent-gcc-4.9 .
